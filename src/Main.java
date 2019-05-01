@@ -37,6 +37,9 @@ public class Main {
 		newLinkedListWirhLink.add("Fifth Item Of New Linked List");
 		linkedListExample.addToLinkedList(2, newLinkedList);
 		linkedListExample.ReadLinkedListOnJava();
+		
+		System.out.println("------------------------");
+		
 
 	}
 }

@@ -42,4 +42,5 @@ public class LinkedListExample {
 		linkedList.addAll(place, newLinkedList);
 		System.out.println(linkedList);
 	}
+	
 }
